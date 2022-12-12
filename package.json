@@ -1,9 +1,8 @@
 {
-  "name": "sandwich_attack_bot",
-  "version": "1.0.0",
-  "description": "",
-  "scripts": {
-    "start": "node bot.js"
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "hardhat": "^2.19.2"
   },
   "dependencies": {
     "big.js": "^6.2.1",
